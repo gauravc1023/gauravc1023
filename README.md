@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gauravc1023
+- 👋 Hi, I’m Gaurav
 
 
 <!---
