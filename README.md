@@ -15,7 +15,9 @@
 <a href="https://x.com/Gaurav68819">
   <img width="48" height="48" src="https://img.icons8.com/color/48/twitterx--v1.png" alt="twitterx--v1"/>
 </a>
-
+<a href="https://my-portfolio-l493.vercel.app/">
+  <img width="48" height="48" src="https://img.icons8.com/nolan/64/portfolio.png" alt="portfolio"/>
+</a>
 </p>
   
 <!---
