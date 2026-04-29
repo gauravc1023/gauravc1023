@@ -6,18 +6,10 @@
 </h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/gaurav-chaudhari-4b4687284/">
-  <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>
-</a>
-<a href="https://www.instagram.com/gaurav_._004/">
-  <img width="48" height="48" src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="instagram-new--v1"/>
-</a>
-<a href="https://x.com/Gaurav68819">
-  <img width="48" height="48" src="https://img.icons8.com/color/48/twitterx--v1.png" alt="twitterx--v1"/>
-</a>
-<a href="https://my-portfolio-l493.vercel.app/">
-  <img width="48" height="48" src="https://img.icons8.com/nolan/64/portfolio.png" alt="portfolio"/>
-</a>
+  <a href="https://www.linkedin.com/in/gaurav-chaudhari-4b4687284/"><img src="https://img.icons8.com/color/48/linkedin.png" width="48" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/gaurav_._004/"><img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="48" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/Gaurav68819"><img src="https://img.icons8.com/color/48/twitterx--v1.png" width="48" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://my-portfolio-l493.vercel.app/"><img src="https://img.icons8.com/nolan/64/portfolio.png" width="48" /></a>
 </p>
   
 <!---
